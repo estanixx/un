@@ -1,6 +1,10 @@
 {
   "files.associations": {
     "*.html": "html",
-    "semaphore.h": "c"
+    "semaphore.h": "c",
+    "fcntl.h": "c",
+    "stdlib.h": "c",
+    "unistd.h": "c",
+    "types.h": "c"
   }
 }
