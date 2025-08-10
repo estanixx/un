@@ -1,4 +1,4 @@
-,Descripción,Valor,Mes,Sede
+exp_id,description,value,month,shopping_mall_id
 0,PAGO TELESENTINEL,170000.0,5,1
 1,PAGO INTERNET,100000.0,5,1
 2,PAGO SERVICIOS PUBLICOS,350000.0,5,1
